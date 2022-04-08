@@ -4,6 +4,9 @@ class Add
 	{
 		int c=20;
 		int a=10;
+		int b=3;
+		int d=23;
+		int e=3;
 		System.out.println("Hello java");
 	}
 }

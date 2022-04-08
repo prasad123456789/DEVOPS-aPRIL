@@ -1,5 +1,5 @@
 a=2
-b=10
+b=5
 name="prasad"
 age=25
 if a+b==12:
@@ -8,4 +8,4 @@ else:
     print("howw......");
     print("How are you welocomr");
     print("hello my name is"+name);
-    print("student age"+age);
+    print("student age",age);
